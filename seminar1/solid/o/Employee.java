@@ -1,4 +1,4 @@
-//package ..*
+// package seminar1.solid.o;
 
 public class Employee
 {
