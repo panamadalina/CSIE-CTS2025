@@ -1,4 +1,4 @@
-package prototype;
+package seminar5.prototype;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package prototype;
+package seminar5.prototype;
 
 public class Book implements Cloneable{
 
