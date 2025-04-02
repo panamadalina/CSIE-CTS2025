@@ -1,5 +1,4 @@
 package seminar5.builder;
-;
 
 public class User
 {
@@ -61,6 +60,4 @@ public class User
 			return this.user;
 		}
 	}
-} {
-    
-}
+} 
